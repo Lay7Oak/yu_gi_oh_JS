@@ -12,7 +12,7 @@ Instruções:
 - Os Atributos das Cartas são Jo-ken-po (Pedra, Papel e Tesoura)
 - Após o combate clique no resultado para continuar a jogar
 
-Melhorias aplicadas por Laís Carvalho:
+Melhorias aplicadas:
 
 - Indentificador dos jogadores
 - Centralização dos "cards-versus"
