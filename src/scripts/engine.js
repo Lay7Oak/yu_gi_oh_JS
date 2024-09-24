@@ -238,7 +238,22 @@ function init() {
     toggleSound();
 }
 
+function checkScreenSize() {
+    if (window.innerWidth <= 917) {
+        window.location.href = "https://lay7oak.github.io/yugiohmobile/";
+    }
+}
+
+// Chama a função quando a página é carregada
+checkScreenSize();
+
+// Também pode ser útil verificar ao redimensionar a tela
+window.addEventListener('resize', checkScreenSize);
+
+
+
 init ();
+
 
 
  // const bgm = document.getElementById("bgm");
