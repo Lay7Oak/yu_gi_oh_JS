@@ -14,6 +14,8 @@ Instruções:
 
 Melhorias aplicadas:
 
+- Versão para telas menores (Repositório <https://github.com/Lay7Oak/yugiohmobile>)
+- Painel com instruções do jogo
 - Indentificador dos jogadores
 - Centralização dos "cards-versus"
 - Botão "Sound": permite ligar e desligar o som
@@ -21,7 +23,6 @@ Melhorias aplicadas:
 Implementação Futura/Sugestiva:
 
 - Limite de jogadas
-- Botão reset
 - Mais opções de cartas
 
 
